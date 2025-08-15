@@ -1,1 +1,3 @@
-# Pathogen_Genomics_2025
+# Pathogen Genomics 2025
+
+For detailed workflow steps, see the project [Wiki](wiki/Home.md).
